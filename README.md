@@ -11,7 +11,8 @@ You can find the detailed derivations of the BPTF model in bptf.pdf
 
 ## How to run tests:
 You can run the tests from the main directory using nosetests.
-nosetests --nocapture test/test_nmf.py
-nosetests --nocapture test/test_parafac.py
-nosetests --nocapture test/test_bptf.py
+
+- nosetests --nocapture test/test_nmf.py
+- nosetests --nocapture test/test_parafac.py
+- nosetests --nocapture test/test_bptf.py
 
