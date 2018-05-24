@@ -1,5 +1,8 @@
-# BPTF
+# BPTF for Dummies
 Bayesian Poisson Tensor Factorization
+
+## Doc:
+You can find the detailed derivations of the BPTF model in bptf.pdf
 
 ## Sources:
     * NMF: Poisson NMF implementation
