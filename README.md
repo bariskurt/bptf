@@ -1,6 +1,8 @@
 # BPTF for Dummies
 Bayesian Poisson Tensor Factorization
 
+This project includes the detailed derivations and a Python code for the tensor factorization with Poisson observations. The code is written using Numpy, Scipy and Tensorly libraries.
+
 ## Doc:
 You can find the detailed derivations of the BPTF model in bptf.pdf
 
